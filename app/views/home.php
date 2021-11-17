@@ -19,7 +19,7 @@
                 </a>
             </article>
             <article class="col-6 d-flex mb-4">
-                <a href="lst_cliente.html" class="caixa text-center">
+                <a href="lst_morador.php" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
                         
