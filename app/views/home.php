@@ -62,7 +62,6 @@
                 <a href="" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
-                        <p>Logoff</p>
                         <h3>Sair</h3>
                     </div>
                     <div class="col-4 text-center">
