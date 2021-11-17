@@ -1,8 +1,7 @@
 <html>
-<link rel="shortcut icon" href="assets\img\icon.png">
 <head>
 <meta charset="utf-8">
-<title>SIMECAP</title>
+<title>mjailton agendamento</title>
 	<meta name="viewport" content="width=device-width, initial-scale =1">	
 	<link rel="stylesheet" type="text/css" href="assets/css/auxiliar.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/grade.css">

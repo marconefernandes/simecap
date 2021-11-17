@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="assets\img\icon.png">
+
 <?php
 use app\core\Excecao;
 session_start();

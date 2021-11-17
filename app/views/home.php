@@ -36,7 +36,7 @@
                 <a href="agenda.html" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
-                        <h3>LISTA DE PEDIDOS</h3>
+                        <h3>NOVO PEDIDO</h3>
                         <!--<h3>1230</h3>-->
                     </div>
                     <div class="col-4 text-center">
@@ -50,7 +50,7 @@
                 <div class="rows">
                     <div class="col-8">
                         <p></p>
-                        <h3>NOVO PEDIDOS</h3>
+                        <h3>LISTA DE PEDIDOS</h3>
                     </div>
                     <div class="col-4 text-center">
                         <i class="fas fa-book-reader h1"></i>

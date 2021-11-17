@@ -1,6 +1,7 @@
 
 <!doctype html>
 <html>
+<link rel="shortcut icon" href="assets\img\icon.png">
 <head>
 <meta charset="utf-8">
 	<title> SIMECAP</title>
@@ -25,6 +26,7 @@
 				<input	type="text" name="login">
 				</label> <label> <span class="text-label label">Senha</span> 
 				<input	type="password" name="senha">
+				<h1></h1>
 				</label> <input type="submit" value="Entrar" class="btn btn-laranja">
 			</form>
 			<a href="" class="senha text-azul mt-3 d-block">Esqueci minha senha</a>

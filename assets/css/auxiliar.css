@@ -224,7 +224,7 @@
 	background:#60e2a6;
 }
 .btn.btn-laranja{
-	border:solid 1px #fbb661;
+	border:solid 0px #fbb661;
 	background:#fbc27c;
 }
 
@@ -245,9 +245,9 @@
 	color:#e86868!important;
 }
 .btn-outline-verde{
-	border:solid 1px #4dd898;
+	border:solid 0px #20a366;
 	background:none!important;
-	color:#4dd898!important;
+	color:#20ac6a!important;
 }
 .btn-outline-roxo{
 	border:solid 1px #7892ea;

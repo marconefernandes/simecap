@@ -30,9 +30,9 @@
 		<div class="base-listas">
 		<div class="caixa p-2">
 		<div class="titulo d-flex justify-content-space-between center-middle">
-			<span><i class="fas fa-users text-verde h4 mb-0"></i> Lista de moradores</span>
+			<span><i class="fas fa-users text-verde h4 mb-0"></i> Lista de Intermediadores</span>
 			<div>
-				<a href="frm_morador.php" class="btn py-1 btn-verde btn-pequeno d-inline-block"><i class="fas fa-plus-circle"></i> Cadastrar morador</a>
+				<a href="frm_intermediador.php" class="btn py-1 btn-verde btn-pequeno d-inline-block"><i class="fas fa-plus-circle"></i> Cadastrar intermediador</a>
 				<a href="" class="btn btn-pequeno py-1 btn-laranja filtro d-inline-block"><i class="fas fa-filter"></i> Filtro</a>
 			</div>
 		</div>
