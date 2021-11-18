@@ -33,7 +33,7 @@
                 </a>
             </article>
             <article class="col-6 d-flex mb-4">
-                <a href="agenda.html" class="caixa text-center">
+                <a href="frm_agendamento.php" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
                         <h3>NOVO PEDIDO</h3>
@@ -46,7 +46,7 @@
                 </a>
             </article>          
             <article class="col-6 d-flex mb-4">
-                <a href="agenda.html" class="caixa text-center">
+                <a href="lst_agendamento.php" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
                         <p></p>

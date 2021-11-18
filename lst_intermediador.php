@@ -1,5 +1,4 @@
 <html>
-<link rel="shortcut icon" href="assets\img\icon.png">
 <head>
 <meta charset="utf-8">
 <title>SIMECAP</title>
@@ -7,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/auxiliar.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/grade.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="shortcut icon" href="assets\img\icon.png">
 </head>
 
 <body>    

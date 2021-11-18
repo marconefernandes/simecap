@@ -220,8 +220,9 @@
 	background:#ad93fe;
 }
 .btn.btn-verde{
-	border:solid 1px #21dc85;
-	background:#60e2a6;
+	border:solid 0px #21dc85;
+	background:#21dc85;
+	
 }
 .btn.btn-laranja{
 	border:solid 0px #fbb661;
@@ -335,10 +336,10 @@ select.form-campo
     background: #d1d1d157!important;
 }
 .bg-padrao {
-    background:linear-gradient(45deg, #0b7f74, #24b9ab)!important;
-    background:-moz-linear-gradient(45deg, #0b7f74, #24b9ab)!important;
-    background:-webkit-inear-gradient(45deg, #0b7f74, #24b9ab)!important;
-    background:-o-inear-gradient(45deg, #0b7f74, #24b9ab)!important;
+    background:linear-gradient(45deg, #00369b, #1dacff)!important;
+    background:-moz-linear-gradient(45deg, #00369b, #1dacff)!important;
+	background:-webkit-inear-gradient(45deg, #00369b, #1dacff)!important;
+    background:-o-inear-gradient(45deg, #00369b, #1dacff)!important;
 }
 
 

@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/auxiliar.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/grade.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="shortcut icon" href="assets\img\icon.png">
 </head>
 
 <body>    
