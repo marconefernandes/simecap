@@ -21,13 +21,14 @@
     <div class="">	
 		<div class="caixa-login position-relative">
 			<form action="" method="post">
-				<h1>login</h1>
-				<label> <span class="text-label label">Login</span> 
+				<a href="<?php echo URL_BASE?>"><img src="<?php echo URL_BASE?>assets/img/logo3.png"  class="logo_login"></a>
+				<h1>Login</h1>
+				<label> <span class="text-label label">Usuário</span> 
 				<input	type="text" name="login">
 				</label> <label> <span class="text-label label">Senha</span> 
 				<input	type="password" name="senha">
 				<h1></h1>
-				</label> <input type="submit" value="Entrar" class="btn btn-laranja">
+				</label> <input type="submit" value="Entrar" class="btn btn-blue">
 			</form>
 			<a href="" class="senha text-azul mt-3 d-block">Esqueci minha senha</a>
 			

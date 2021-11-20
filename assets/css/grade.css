@@ -29,6 +29,7 @@
 	min-height:1px;
 	padding-right:15px;
 	padding-left:15px;
+	margin: auto;
 }
 
 @media(min-width:992px){
@@ -41,55 +42,55 @@
 	/*equivale a 12 colunas*/
 	.col-1{
 		max-width:8.333333%;
-		ms-flex:0 0 8.333333%;
+		-ms-flex:0 0 8.333333%;
 		flex:0 0 8.333333%;
 	}
 	/*equivale a 6 colunas*/
 	.col-2{
 		max-width:16.666667%;
-		ms-flex:0 0 16.666667%;
+		-ms-flex:0 0 16.666667%;
 		flex:0 0 16.666667%;
 	}
 	/*equivale a 4 colunas*/
 	.col-3{
 		max-width:25%;
-		ms-flex:0 0 25%;
+		-ms-flex:0 0 25%;
 		flex:0 0 25%;
 	}
 	/*equivale a 3 colunas*/
 	.col-4{
 		max-width:33.333333%;
-		ms-flex:0 0 33.333333%;
+		-ms-flex:0 0 33.333333%;
 		flex:0 0 33.333333%;
 	}
 	/*equivale a 2 colunas*/
 	.col-6{
 		max-width:50%;
-		ms-flex:0 0 50%;
+		-ms-flex:0 0 50%;
 		flex:0 0 50%;
 	}
 	/*equivale a 8 colunas*/
 	.col-8{
 		max-width:66.666667%;
-		ms-flex:0 0 66.666667%;
+		-ms-flex:0 0 66.666667%;
 		flex:0 0 66.666667%;
 	}
 	/*equivale a 9 colunas*/
 	.col-9{
 		max-width:75%;
-		ms-flex:0 0 75%;
+		-ms-flex:0 0 75%;
 		flex:0 0 75%;
 	}
 	/*equivale a 10 colunas*/
 	.col-10{
 		max-width:83.333333%;
-		ms-flex:0 0 83.333333%;
+		-ms-flex:0 0 83.333333%;
 		flex:0 0 83.333333%;
 	}
 	/*equivale a 12 colunas*/
 	.col-12{
 		max-width:100%;
-		ms-flex:0 0 100%;
+		-ms-flex:0 0 100%;
 		flex:0 0 100%;
 	}
 }
