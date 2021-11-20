@@ -132,7 +132,7 @@ ul ,li{list-style:none;}
 	font-size: 1em;
     border: solid 1px #0b7f74;
     background: #fff;
-    padding: 6px 10px;
+    padding: 7px 10px;
     text-align: left;
     color: #111111;
     font-weight: 600;
@@ -155,6 +155,18 @@ ul ,li{list-style:none;}
 }
 .bg-padrao .text-label{color:#fff!important}
 .mostraFiltro{display:none} 
+
+/*CORES DOS ICONES*/
+.ico_menu_color {
+	color: #00369b;
+}
+
+/*MENSAGEM DE BOAS VINDAS*/
+.mensagem_bem_vindo{
+	color: #00369b;
+	margin-left: 30px;
+	margin-right: 30px;
+}
 
 .base-topo{
 	width:100%;

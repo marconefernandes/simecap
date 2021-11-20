@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/auxiliar.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/grade.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/estilo-tabela.css">
 	<link rel="shortcut icon" href="assets\img\icon.png">
 </head>
 
@@ -17,7 +18,7 @@
     <div class="menu">	
 		<ul>
 			<li><a href="index.php">Início</span></a></li>
-			<li><a href="frm_agendamento.php">Novo Pedido</a></li>
+			<li><a href="frm_entrega.php">Novo Pedido</a></li>
 		<!--<li><a href="lst_medico.html">Médicos</a></li>
 			<li><a href="lst_especialidade.html">Especialidades</a></li>
 			<li><a href="medico_especialidade.html">Médico especialidades</a></li>			                       
@@ -31,9 +32,9 @@
  <div class="base-home">
     <div class="base-listas">
         <div class="caixa p-2">
-        <span class="titulo"><i class="fas fa-users text-verde h4 mb-0"></i> Lista de entregas </span>
+        <span class="titulo"><i class="fas fa-book-reader ico_menu_color h4 mb-0"></i>&nbsp; Lista de entregas </span>
 			<div class="base-form">
-            <form id="frmMedicoEspecialidade" >
+        <!--    <form id="frmMedicoEspecialidade" > -->
 				<div class="bg-padrao p-2 radius-4 mb-3">
 				<!-- Inserir aqui o formlario-->
 				<div class="rows">
@@ -55,7 +56,7 @@
 						</select>			 
 					</div>
 					<div class="col-2 mt-3">
-						<input type="submit" name="" value="Buscar" class="btn btn-verde width-100">
+						<input type="submit" name="" value="Buscar" class="btn btn-branco-buscar-entrega width-100">
 					</div>
 				</div>
 			</div>					

@@ -7,34 +7,10 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/auxiliar.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/grade.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/estilo-tabela.css">
 	<link rel="shortcut icon" href="assets\img\icon.png">
 
 <body>
- <!--   
-    <div class="base-topo">
-	<div class="conteudo">
-		<a href="index.php?link=1"><img src="assets/img/logo2.png"  class="logo">
-		<div class="usuario">
-			<a href="" >Manoel Jailton</a>
-			<div class="thumb"><img src="img/img-user.png"></div>		
-		</div>
-	</div>
-</div>
-    <div class="conteudo">
-    <div class="conteudo">	
-        <div class="menu">	
-		<ul>
-			<span class="ttp">Painel de controle</span>
-			<li><a href="index.html">home</span></a></li>
-			<li><a href="lista_cliente.html">Paciente</a></li>
-			<li><a href="lista_medico.html">Médicos</a></li>
-			<li><a href="lista_especialidade.html">Especialidades</a></li>
-              <span class="ttp">agendamento</span>
-			                       
-			<li><a href="agenda.html">Agendas do Médico</a></li>	
-            <li><a href=""> <i class="icone ico5"></i><span>SAIR</span></a></li>
-		</ul>
-	</div> -->
 
 <div class="conteudo">
 <div class="base-topo">
@@ -43,7 +19,7 @@
     <div class="menu">	
 		<ul>
 			<li><a href="index.php">Início</span></a></li>
-			<li><a href="lst_agendamento.php">Lista de Pedido</a></li>
+			<li><a href="lst_entrega.php">Lista de Pedido</a></li>
 		<!--<li><a href="lst_medico.html">Médicos</a></li>
 			<li><a href="lst_especialidade.html">Especialidades</a></li>
 			<li><a href="medico_especialidade.html">Médico especialidades</a></li>			                       
@@ -55,13 +31,9 @@
 
 
 
-
-
-
-
 <div class="base-home">
     <div class="base-listas">
-        <span class="titulo1"><a name="consulta"></a>Cadastro de Agenda</span>
+        <span class="titulo1"><a name="consulta"></a>&nbsp; Cadastro de Pedidos</span>
         <div class="caixa">
             <div class="base-form">
                 <form action="" method="post">

@@ -19,7 +19,7 @@
 			<li><a href="index.php">Início</span></a></li>
 			<li><a href="lst_morador.php">Moradores</a></li>
 			<li><a href="lst_intermediador.php">Intermediadores</a></li>
-			<li><a href="lst_especialidade.html">Usuários</a></li>
+			<li><a href="">Usuários</a></li>
 	<!--		<li><a href="medico_especialidade.html">Médico especialidades</a></li>	-->		                       
 	<!--		<li class="ativo"><a href="agenda.html">Agendas do Médico</a></li>	-->
             <li><a href=""> Sair <i class="fas fa-sign-out-alt"></i></li>
@@ -30,10 +30,10 @@
 		<div class="base-listas">
 		<div class="caixa p-2">
 		<div class="titulo d-flex justify-content-space-between center-middle">
-			<span><i class="fas fa-users text-verde h4 mb-0"></i> Lista de moradores</span>
+			<span><i class="fas fa-users h4 mb-0 ico_menu_color"></i> Lista de moradores</span>
 			<div>
-				<a href="frm_morador.php" class="btn py-1 btn-verde btn-pequeno d-inline-block"><i class="fas fa-plus-circle"></i> Cadastrar morador</a>
-				<a href="" class="btn btn-pequeno py-1 btn-laranja filtro d-inline-block"><i class="fas fa-filter"></i> Filtro</a>
+				<a href="frm_morador.php" class="btn py-1 btn-azul btn-pequeno d-inline-block"><i class="fas fa-plus-circle"></i> Cadastrar morador</a>
+				<a href="" class="btn btn-pequeno py-1 btn-branco filtro d-inline-block"><i class="fas fa-filter"></i> Filtro</a>
 			</div>
 		</div>
 	

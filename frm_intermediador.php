@@ -29,7 +29,7 @@
 	<div class="base-home">
 	<div class="base-listas">
 		<div class="caixa p-2">		
-		<span class="titulo p-1"><i class="fas fa-users text-verde h4 mb-0"></i> Meu Perfil</span>
+		<span class="titulo p-1"><i class="fas fa-users h4 mb-0 ico_menu_color"></i>&nbsp; Cadastro de Intermediador</span>
 		<div class="base-form">		
 <div>
 				<!--mensagem de erro-->
@@ -161,7 +161,7 @@
 					<input type="password" name="senha" class="form-campo">
 				</div> -->	
 				<div class="col-12 mt-3 mb-3">
-					<input type="submit" name="logar" id="logar" value="cadastrar" class="btn btn-verde d-block m-auto">
+					<input type="submit" name="logar" id="logar" value="cadastrar" class="btn btn-azul d-block m-auto">
 				</div>
 			</div>          
                         

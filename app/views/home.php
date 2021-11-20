@@ -2,9 +2,9 @@
                 <a href="" class="caixa">
                 <div class="rows  center-middle">
 
-                    <div class="col-9">
-                        <h3 class="h3 mb-0 text-left">Seja bem vindo</h3>
-                        <p class="h5 mb-0 text-left">Bem vindo a nossa área administrativa</p>
+                    <div class="">
+                        <h3 class="h3 mb-0 text-left mensagem_bem_vindo">Seja bem vindo</h3>
+                        <p class="h5 mb-0 text-left mensagem_bem_vindo">Bem vindo a área administrativa do SIMECAP</p>
                     </div>
                 </div>
                 </a>
@@ -25,33 +25,33 @@
                         <!--<p>REALIZAR PEDIDO DE ENTREGA</p>-->
                     </div>
                     <div class="col-4 text-center">
-                        <i class="fas fa-users h1"></i>
+                        <i class="fas fa-users h1 ico_menu_color"></i>
                     </div>
                 </div>
                 </a>
             </article>
             <article class="col-6 d-flex mb-4">
-                <a href="frm_agendamento.php" class="caixa text-center">
+                <a href="frm_entrega.php" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
                         <h3>NOVO PEDIDO</h3>
                         <!--<h3>1230</h3>-->
                     </div>
                     <div class="col-4 text-center">
-                        <i class="fas fa-address-book h1"></i>
+                        <i class="fas fa-address-book h1 ico_menu_color"></i>
                     </div>
                 </div>
                 </a>
             </article>          
             <article class="col-6 d-flex mb-4">
-                <a href="lst_agendamento.php" class="caixa text-center">
+                <a href="lst_entrega.php" class="caixa text-center">
                 <div class="rows">
                     <div class="col-8">
                         <p></p>
                         <h3>LISTA DE PEDIDOS</h3>
                     </div>
                     <div class="col-4 text-center">
-                        <i class="fas fa-book-reader h1"></i>
+                        <i class="fas fa-book-reader h1 ico_menu_color"></i>
                     </div>
                 </div>
                 </a>
@@ -63,7 +63,7 @@
                         <h3>RELATÓRIOS</h3>
                     </div>
                     <div class="col-4 text-center">
-                        <i class="fas fa-file-alt h1"></i>
+                        <i class="fas fa-file-alt h1 ico_menu_color"></i>
                     </div>
                 </div>
                 </a>

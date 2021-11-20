@@ -222,8 +222,12 @@
 .btn.btn-verde{
 	border:solid 0px #21dc85;
 	background:#21dc85;
-	
 }
+.btn.btn-branco-buscar-entrega{
+	border:solid 0px #ffffff;
+	background:#ffffff;
+}
+
 .btn.btn-laranja{
 	border:solid 0px #fbb661;
 	background:#fbc27c;
